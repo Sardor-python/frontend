@@ -1,0 +1,112 @@
+body {
+  font-size: 24px;
+  font-family: sans-serif;
+  color: white;
+  text-transform: capitalize;
+}
+
+.nom-0 {
+  width: 1200px;
+  margin: 10px auto;
+
+}
+
+.nom-0 {
+  width: 700px;
+  margin: 200px auto;
+}
+.nom-1 {
+  display: flex;
+  justify-content: space-around;
+}
+.nom-2 {
+  padding: 2rem 3rem;
+  background-image: linear-gradient(
+    90deg,
+    rgb(231, 39, 39),
+    rgb(230, 199, 59),
+    rgb(223, 55, 50),
+    rgb(236, 150, 37)
+  );
+  background-size: 200%;
+  transition: all 0.5s linear;
+  opacity: 0.6;
+  border-radius: 10px;
+}
+.nom-2:hover {
+  background-position: right;
+}
+
+.nom-3 {
+  padding: 2rem 3rem;
+  background-image: linear-gradient(
+    90deg,
+    rgb(197, 122, 219),
+    rgb(101, 193, 230),
+    rgb(101, 193, 230),
+    rgb(197, 122, 219)
+  );
+  background-size: 200%;
+  transition: all 0.5s linear;
+  opacity: 0.6;
+  border-radius: 10px;
+}
+.nom-3:hover {
+  background-position: right;
+}
+.nom-4 {
+  padding: 2rem 3rem;
+  background-image: linear-gradient(
+    90deg,
+    rgb(42, 189, 157),
+    rgb(90, 180, 240),
+    rgb(90, 180, 240),
+    rgb(42, 189, 157)
+  );
+  background-size: 200%;
+  transition: all 0.5s linear;
+  opacity: 0.6;
+  border-radius: 10px;
+}
+.nom-4:hover {
+  background-position: right;
+}
+.nom-5 {
+  padding: 2rem 6.5rem;
+  background-image: linear-gradient(
+    90deg,
+    rgb(138, 196, 243),
+    rgb(169, 226, 248),
+    rgb(169, 226, 248),
+    rgb(138, 196, 223)
+  );
+  background-size: 200%;
+  transition: all 0.5s linear;
+  opacity: 0.7;
+  border-radius: 10px;
+}
+.nom-5:hover {
+  background-positionright;
+}
+.nom-6 {
+  padding: 2rem 6.5rem;
+  background-image: linear-gradient(
+    90deg,
+    rgb(248, 220, 220),
+    rgb(240, 146, 146),
+    rgb(248, 146, 146),
+    rgb(248, 220, 220)
+  );
+  background-size: 200%;
+  transition: all 0.5s linear;
+  opacity: 0.7;
+  border-radius: 10px;
+}
+.nom-6:hover {
+  background-position: right;
+}
+.nom-7 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 25px;
+}
